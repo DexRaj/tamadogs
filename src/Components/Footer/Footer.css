@@ -1,0 +1,14 @@
+.site-footer {
+    background-color: #a5a059;
+    padding: 32px;
+    text-align: center;
+    color: rgb(98, 94, 55);
+    font-family: var(--font-family-2);
+    font-size: 1.8rem;
+}
+
+@media only screen and (max-width: 1041px) {
+    .site-footer {
+        padding-bottom: 80px;
+    }
+}
