@@ -7,7 +7,7 @@ function SiteHeaderComponents() {
       <header className="site-header">
         <div className="header-left">
           <div className="site-logo">
-            <a href="index.html"><img src="wp-content/uploads/2022/02/tamadoge-logo.svg" className="logo-head" /></a>
+            <a href=""><img src="wp-content/uploads/2022/02/tamadoge-logo.svg" className="logo-head" /></a>
           </div>
 
           <div className="burger-menu">
@@ -40,7 +40,7 @@ function SiteHeaderComponents() {
                     <ul className="js-wpml-ls-sub-menu wpml-ls-sub-menu">
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ja">
-                        <a href="ja/index.html" className="wpml-ls-link">
+                        <a href="ja/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="ja">日本語</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Japanese<span className="wpml-ls-bracket">)</span></span></a>
@@ -48,7 +48,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ko">
-                        <a href="ko/index.html" className="wpml-ls-link">
+                        <a href="ko/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="ko">한국어</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Korean<span className="wpml-ls-bracket">)</span></span></a>
@@ -56,7 +56,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ru">
-                        <a href="ru/index.html" className="wpml-ls-link">
+                        <a href="ru/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="ru">Русский</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Russian<span className="wpml-ls-bracket">)</span></span></a>
@@ -64,7 +64,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-tr">
-                        <a href="tr/index.html" className="wpml-ls-link">
+                        <a href="tr/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="tr">Türkçe</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Turkish<span className="wpml-ls-bracket">)</span></span></a>
@@ -72,7 +72,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ar">
-                        <a href="ar/index.html" className="wpml-ls-link">
+                        <a href="ar/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="ar">العربية</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Arabic<span className="wpml-ls-bracket">)</span></span></a>
@@ -80,7 +80,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-zh-hans">
-                        <a href="zh-hans/index.html" className="wpml-ls-link">
+                        <a href="zh-hans/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="zh-hans">简体中文</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Chinese
                             (Simplified)<span className="wpml-ls-bracket">)</span></span></a>
@@ -88,7 +88,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-zh-hant">
-                        <a href="zh-hant/index.html" className="wpml-ls-link">
+                        <a href="zh-hant/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="zh-hant">繁體中文</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Chinese
                             (Traditional)<span className="wpml-ls-bracket">)</span></span></a>
@@ -96,7 +96,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-nl">
-                        <a href="nl/index.html" className="wpml-ls-link">
+                        <a href="nl/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="nl">Nederlands</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Dutch<span className="wpml-ls-bracket">)</span></span></a>
@@ -104,7 +104,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-pl">
-                        <a href="pl/index.html" className="wpml-ls-link">
+                        <a href="pl/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="pl">Polski</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Polish<span className="wpml-ls-bracket">)</span></span></a>
@@ -112,7 +112,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-cs">
-                        <a href="cs/index.html" className="wpml-ls-link">
+                        <a href="cs/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="cs">Čeština</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Czech<span className="wpml-ls-bracket">)</span></span></a>
@@ -120,7 +120,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-fr">
-                        <a href="fr/index.html" className="wpml-ls-link">
+                        <a href="fr/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="fr">Français</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>French<span className="wpml-ls-bracket">)</span></span></a>
@@ -128,7 +128,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-de">
-                        <a href="de/index.html" className="wpml-ls-link">
+                        <a href="de/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="de">Deutsch</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>German<span className="wpml-ls-bracket">)</span></span></a>
@@ -136,7 +136,7 @@ function SiteHeaderComponents() {
 
 
                       <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-it">
-                        <a href="it/index.html" className="wpml-ls-link">
+                        <a href="it/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="it">Italiano</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Italian<span className="wpml-ls-bracket">)</span></span></a>
@@ -145,7 +145,7 @@ function SiteHeaderComponents() {
 
                       <li
                         className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-es wpml-ls-last-item">
-                        <a href="es/index.html" className="wpml-ls-link">
+                        <a href="es/" className="wpml-ls-link">
                           <span className="wpml-ls-native" lang="es">Español</span><span
                             className="wpml-ls-display"><span className="wpml-ls-bracket">
                               (</span>Spanish<span className="wpml-ls-bracket">)</span></span></a>
@@ -162,16 +162,16 @@ function SiteHeaderComponents() {
               <ul id="primary-menu" className="menu">
                 <li id="menu-item-69"
                   className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-69">
-                  <a href="index.html#about" aria-current="page">About</a></li>
+                  <a href="#about" aria-current="page">About</a></li>
                 <li id="menu-item-70"
                   className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-70">
-                  <a href="index.html#eco-system" aria-current="page">Eco-System</a></li>
+                  <a href="#eco-system" aria-current="page">Eco-System</a></li>
                 <li id="menu-item-71"
                   className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-71">
-                  <a href="index.html#roadmap" aria-current="page">Roadmap</a></li>
+                  <a href="#roadmap" aria-current="page">Roadmap</a></li>
                 <li id="menu-item-73"
                   className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-73">
-                  <a href="index.html#whitepaper" aria-current="page">Whitepaper</a></li>
+                  <a href="#whitepaper" aria-current="page">Whitepaper</a></li>
               </ul>
             </div>
             <div className="site-cta">
@@ -256,7 +256,7 @@ function SiteHeaderComponents() {
                   <ul className="js-wpml-ls-sub-menu wpml-ls-sub-menu">
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ja">
-                      <a href="ja/index.html" className="wpml-ls-link">
+                      <a href="ja/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="ja">日本語</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Japanese<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -264,7 +264,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ko">
-                      <a href="ko/index.html" className="wpml-ls-link">
+                      <a href="ko/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="ko">한국어</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Korean<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -272,7 +272,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ru">
-                      <a href="ru/index.html" className="wpml-ls-link">
+                      <a href="ru/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="ru">Русский</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Russian<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -280,7 +280,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-tr">
-                      <a href="tr/index.html" className="wpml-ls-link">
+                      <a href="tr/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="tr">Türkçe</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Turkish<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -288,7 +288,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ar">
-                      <a href="ar/index.html" className="wpml-ls-link">
+                      <a href="ar/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="ar">العربية</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Arabic<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -296,7 +296,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-zh-hans">
-                      <a href="zh-hans/index.html" className="wpml-ls-link">
+                      <a href="zh-hans/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="zh-hans">简体中文</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Chinese
                           (Simplified)<span className="wpml-ls-bracket">)</span></span></a>
@@ -304,7 +304,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-zh-hant">
-                      <a href="zh-hant/index.html" className="wpml-ls-link">
+                      <a href="zh-hant/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="zh-hant">繁體中文</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Chinese
                           (Traditional)<span className="wpml-ls-bracket">)</span></span></a>
@@ -312,7 +312,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-nl">
-                      <a href="nl/index.html" className="wpml-ls-link">
+                      <a href="nl/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="nl">Nederlands</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Dutch<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -320,7 +320,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-pl">
-                      <a href="pl/index.html" className="wpml-ls-link">
+                      <a href="pl/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="pl">Polski</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Polish<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -328,7 +328,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-cs">
-                      <a href="cs/index.html" className="wpml-ls-link">
+                      <a href="cs/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="cs">Čeština</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Czech<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -336,7 +336,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-fr">
-                      <a href="fr/index.html" className="wpml-ls-link">
+                      <a href="fr/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="fr">Français</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>French<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -344,7 +344,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-de">
-                      <a href="de/index.html" className="wpml-ls-link">
+                      <a href="de/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="de">Deutsch</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>German<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -352,7 +352,7 @@ function SiteHeaderComponents() {
 
 
                     <li className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-it">
-                      <a href="it/index.html" className="wpml-ls-link">
+                      <a href="it/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="it">Italiano</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Italian<span
                             className="wpml-ls-bracket">)</span></span></a>
@@ -361,7 +361,7 @@ function SiteHeaderComponents() {
 
                     <li
                       className="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-es wpml-ls-last-item">
-                      <a href="es/index.html" className="wpml-ls-link">
+                      <a href="es/" className="wpml-ls-link">
                         <span className="wpml-ls-native" lang="es">Español</span><span
                           className="wpml-ls-display"><span className="wpml-ls-bracket"> (</span>Spanish<span
                             className="wpml-ls-bracket">)</span></span></a>
